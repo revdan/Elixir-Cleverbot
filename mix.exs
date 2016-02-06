@@ -25,7 +25,7 @@ defmodule Cleverbot.Mixfile do
     %{contributors: ["Blake Williams"],
       licenses: ["MIT"],
       links: %{
-        "Github": "https://github.com/BlakeWilliams/Elixir-Cleverbot",
+        "Github": "https://github.com/revdan/Elixir-Cleverbot",
         "Documentation": "http://hexdocs.pm/cleverbot/"
       }}
   end
